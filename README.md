@@ -1,2 +1,0 @@
-# velocityai
-landing page 
