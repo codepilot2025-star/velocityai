@@ -1,0 +1,26 @@
+{
+  "name": "velocityai",
+  "version": "1.0.0",
+  "description": "VelocityAI landing page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codepilot2025-star/velocityai.git"
+  },
+  "keywords": [
+    "ai",
+    "landing-page",
+    "velocityai",
+    "static-site"
+  ],
+  "author": "VelocityAI Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
